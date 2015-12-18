@@ -1,0 +1,8 @@
+ja:
+  twilio:
+    not_configured: "設定が完了していません。"
+    guidance: "再開は1、休止は2、を押してください。"
+    input_imsi: "イムジィを押してください。"
+    process_completed: "処理を完了しました。"
+    argument_error: "入力が誤っています。"
+    process_failed: "処理に失敗しました。"

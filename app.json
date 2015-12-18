@@ -1,0 +1,16 @@
+{
+  "name": "SoraTel",
+  "description": "Soracom SIM controller by telephone",
+  "repository": "https://github.com/tmtysk/soratel.git",
+  "env": {
+    "SORACOM_EMAIL": {
+      "description": "soracom user email address"
+    },
+    "SORACOM_PASSWORD": {
+      "description": "password on soracom"
+    },
+    "TWILIO_TOKEN": {
+      "description": "twilio auth token on twilio. you can check on https://www.twilio.com/user/account/settings"
+    }
+  }
+}

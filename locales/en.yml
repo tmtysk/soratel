@@ -1,0 +1,8 @@
+en:
+  twilio:
+    not_configured: "Not configured yet."
+    guidance: "Press key 1 to activate, or 2 to deactivate."
+    input_imsi: "Press IMSI."
+    process_completed: "The process completed."
+    argument_error: "Wrong input."
+    process_failed: "Failed to proceed."
