@@ -2,12 +2,12 @@
 
 ## What is this?
 
-Soracom SIM controller by telephone.
+SORACOM Air SIM controller by telephone.
 
 ## Quick start
 
 * Create [Twilio](https://www.twilio.com/) account.
-  * get new phone number to control soracom SIMs.
+  * get new phone number to control SORACOM SIMs.
   * Get Twilio auth token.
 * Create [Heroku](https://www.heroku.com/) account.
 * Press Deploy button and configure.
